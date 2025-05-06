@@ -104,9 +104,9 @@
  
 
 <p> </p>
-<h3> Developed by </h3>
+<h3> A trial edit by </h3>
 
-<p> Ahsan Habib, PhD Candidate </p>
+<p> Zhonghou, PhD </p>
 
 <p> <a href="https://www.fit.edu/faculty-profiles/z/zarillo-gary/">Dr. Gary Zarillo, PhD </a> </p>
 
